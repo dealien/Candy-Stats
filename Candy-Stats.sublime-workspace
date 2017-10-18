@@ -1,0 +1,333 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ha",
+				"hasOwnProperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"out",
+				"outBox"
+			],
+			[
+				"data",
+				"data_loaded"
+			],
+			[
+				"lo",
+				"load_data"
+			],
+			[
+				"f",
+				"fun\tFunction"
+			],
+			[
+				"dem",
+				"DEMOGRAPHICS_DATA"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"ou",
+				"output-box"
+			],
+			[
+				"rem",
+				"removeClass"
+			],
+			[
+				"loa",
+				"load_complete"
+			],
+			[
+				"get",
+				"get_opacity"
+			],
+			[
+				"to",
+				"toggleButton"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"tool",
+				"tooltip-link"
+			],
+			[
+				"de",
+				"DEMOGRAPHICS_DATA"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"pack ins ",
+				"Package Control: Install Package"
+			],
+			[
+				"pret json pre",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pretty json ",
+				"Pretty JSON: Format and Sort JSON"
+			],
+			[
+				"pack contr ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/vyren/Desktop/Programming/Processing/Candy-Stats"
+	],
+	"file_history":
+	[
+		"/Users/vyren/PycharmProjects/Derivative-Calculator/.gitignore",
+		"/Users/vyren/PycharmProjects/Derivative-Calculator/.gitignore.md",
+		"/Users/vyren/Desktop/Programming/JavaScript/Light Table Workspace/Database-Explorer/.gitignore",
+		"/Volumes/KODAK/.nmdsdcid",
+		"/Volumes/KODAK/NIKON001.DSC",
+		"/Volumes/NO NAME/.fseventsd/fseventsd-uuid",
+		"/Users/vyren/Downloads/Sea Level in San Francisco (Hourly) Edit.csv",
+		"/Users/vyren/Downloads/Sea Level in San Francisco (Hourly).csv",
+		"/Volumes/NO NAME/MISC/EKECUPLD.XML",
+		"/Users/vyren/Downloads/Sea Level in San Francisco.csv",
+		"/Users/vyren/Downloads/d551a.dat",
+		"/Users/vyren/Downloads/sim-who_sonic.package",
+		"/Users/vyren/Downloads/Simalicious_FantasyFacePaintSet1.package",
+		"/Users/vyren/.bash_profile",
+		"/Users/vyren/Downloads/Stem & Leaf Plot Generator - Input.csv",
+		"/Users/vyren/Downloads/Takeout 3/Chrome/Autofill.json",
+		"/Users/vyren/Downloads/Takeout 3/Location History/Location History.json",
+		"/Users/vyren/Downloads/Takeout 3/Searches/2016-10-01 October 2016 to December 2016.json",
+		"/Users/vyren/Downloads/Takeout 3/Searches/2015-01-01 January 2015 to March 2015.json",
+		"/Users/vyren/Downloads/Takeout 3/Searches/2014-10-01 October 2014 to December 2014.json",
+		"/Users/vyren/Downloads/Takeout 3/YouTube/history/watch-history.json",
+		"/Users/vyren/Desktop/Programming/JavaScript/Light Table Workspace/Database-Explorer/load_data.js",
+		"/Users/vyren/Downloads/Stem & Leaf Plot Generator.js",
+		"/Users/vyren/Downloads/b.out",
+		"/Library/Preferences/SystemConfiguration/preferences.plist",
+		"/private/etc/hostconfig",
+		"/Users/vyren/.bash_history",
+		"/Users/vyren/.bash_hist",
+		"/Users/vyren/.gitconfig",
+		"/Users/vyren/Downloads/VyrenGames Decrypted.usr",
+		"/Users/vyren/Downloads/VyrenGames.usr",
+		"/Users/vyren/Downloads/myfile.dat",
+		"/Users/vyren/Downloads/test.py",
+		"/Users/vyren/Downloads/convert.py",
+		"/Users/vyren/Downloads/VyrenGames (1).usr",
+		"/Users/vyren/Library/Application Support/Uplink/VyrenGames.usr",
+		"/Users/vyren/Desktop/Programming/JavaScript/Light Table Workspace/Database-Explorer/index.html",
+		"/Users/vyren/Desktop/Programming/JavaScript/Light Table Workspace/Database-Explorer/styles/style.css",
+		"/Users/vyren/Desktop/Programming/JavaScript/Light Table Workspace/Database-Explorer/styles/uploader.css",
+		"/Users/vyren/Downloads/test.json",
+		"/Users/vyren/Downloads/demographic_statistics_by_zip_code.json",
+		"/Users/vyren/Desktop/Programming/JavaScript/Light Table Workspace/Database-Explorer/styles/buttons.css",
+		"/Users/vyren/Desktop/Programming/JavaScript/Light Table Workspace/Database-Explorer/buttons.css",
+		"/Users/vyren/Desktop/Programming/JavaScript/Light Table Workspace/Database-Explorer/style.css",
+		"/Users/vyren/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/Users/vyren/Desktop/Programming/JavaScript/Light Table Workspace/Database-Explorer/sample_configs/config.json",
+		"/Users/vyren/Desktop/Programming/JavaScript/Light Table Workspace/Database-Explorer/config.json",
+		"/Users/vyren/Desktop/Programming/JavaScript/Light Table Workspace/Database-Explorer/student_data.json",
+		"/Users/vyren/Desktop/Programming/JavaScript/Light Table Workspace/TeamEmmmmsie-Newsletter/style/custom-website.css",
+		"/Users/vyren/Desktop/Programming/JavaScript/Light Table Workspace/TeamEmmmmsie-Newsletter/1-august-2017.md",
+		"/Users/vyren/Desktop/Programming/JavaScript/Light Table Workspace/TeamEmmmmsie-Newsletter/.gitignore",
+		"/Users/vyren/Desktop/Programming/JavaScript/Light Table Workspace/TeamEmmmmsie-Newsletter/style/website.css",
+		"/Users/vyren/Desktop/Programming/JavaScript/Light Table Workspace/Database-Explorer/loading.css",
+		"/Users/vyren/Desktop/Programming/JavaScript/Light Table Workspace/Database Practice/index.html",
+		"/Users/vyren/Desktop/Programming/JavaScript/Light Table Workspace/Database Practice/load_data.js",
+		"/Users/vyren/Desktop/Programming/JavaScript/Light Table Workspace/Database Practice/loading.css",
+		"/Users/vyren/Desktop/Programming/JavaScript/Light Table Workspace/Database Practice/style.css",
+		"/Users/vyren/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/Users/vyren/Library/Application Support/Sublime Text 3/Packages/User/HTMLPrettify.sublime-settings",
+		"/Users/vyren/Desktop/Programming/JavaScript/Light Table Workspace/Database Practice/test.html",
+		"/Users/vyren/Desktop/Programming/JavaScript/Light Table Workspace/Database Practice/test.js",
+		"/Users/vyren/Desktop/Programming/JavaScript/Light Table Workspace/Database Practice/test.txt",
+		"/Users/vyren/Desktop/Programming/JavaScript/Light Table Workspace/Database Practice/test.json",
+		"/Users/vyren/Desktop/Programming/JavaScript/Light Table Workspace/Database Practice/DEMOGRAPHICS_DATA.json",
+		"/Users/vyren/Library/Application Support/Sublime Text 3/Packages/Pretty JSON/Pretty JSON.sublime-settings",
+		"/Users/vyren/Library/Application Support/Sublime Text 3/Packages/User/Pretty JSON.sublime-settings",
+		"/Users/vyren/Desktop/Programming/JavaScript/Light Table Workspace/Database Practice/load_data_test.js",
+		"/index.html",
+		"/Users/vyren/Downloads/Demographic_Statistics_By_Zip_Code.csv",
+		"/Users/vyren/Downloads/demographics_data.sql",
+		"/Users/vyren/Downloads/A temporary password is generated for root@localho",
+		"/Users/vyren/Downloads/thads2013n.csv",
+		"/Users/vyren/Downloads/thads2013n.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Candy-Stats.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 428.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
