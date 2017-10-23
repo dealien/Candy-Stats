@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"fra",
+				"framerate\tframeRate (debug)"
+			],
+			[
+				"lo",
+				"loadimage\tloadImage"
+			],
+			[
 				"ha",
 				"hasOwnProperty"
 			],
@@ -22,10 +30,6 @@
 			[
 				"data",
 				"data_loaded"
-			],
-			[
-				"lo",
-				"load_data"
 			],
 			[
 				"f",
@@ -87,10 +91,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 367.0,
-		"last_filter": "Package Control: ",
+		"height": 119.0,
+		"last_filter": "Package Control: ins pack",
 		"selected_items":
 		[
+			[
+				"Package Control: ins pack",
+				"Package Control: Install Package"
+			],
 			[
 				"Package Control: ",
 				"Package Control: List Packages"
@@ -112,7 +120,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 467.0
+		"width": 460.0
 	},
 	"console":
 	{
@@ -130,12 +138,13 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/Users/vyren/Desktop/Programming/Processing/Candy-Stats"
-	],
 	"file_history":
 	[
+		"/Users/vyren/Desktop/Programming/Processing/Candy-Stats/index.html",
+		"/Users/vyren/Desktop/Programming/Processing/Candy-Stats/sketch.js",
+		"/Users/vyren/Downloads/free-python-games/setup.py",
+		"/Users/vyren/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
+		"/Users/vyren/Library/Application Support/Sublime Text 3/Packages/User/.jsbeautifyrc",
 		"/Users/vyren/PycharmProjects/Derivative-Calculator/.gitignore",
 		"/Users/vyren/PycharmProjects/Derivative-Calculator/.gitignore.md",
 		"/Users/vyren/Desktop/Programming/JavaScript/Light Table Workspace/Database-Explorer/.gitignore",
@@ -180,7 +189,6 @@
 		"/Users/vyren/Desktop/Programming/JavaScript/Light Table Workspace/Database-Explorer/styles/buttons.css",
 		"/Users/vyren/Desktop/Programming/JavaScript/Light Table Workspace/Database-Explorer/buttons.css",
 		"/Users/vyren/Desktop/Programming/JavaScript/Light Table Workspace/Database-Explorer/style.css",
-		"/Users/vyren/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc.defaults.json",
 		"/Users/vyren/Desktop/Programming/JavaScript/Light Table Workspace/Database-Explorer/sample_configs/config.json",
 		"/Users/vyren/Desktop/Programming/JavaScript/Light Table Workspace/Database-Explorer/config.json",
 		"/Users/vyren/Desktop/Programming/JavaScript/Light Table Workspace/Database-Explorer/student_data.json",
@@ -216,7 +224,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 93.0,
+		"height": 101.0,
 		"where_history":
 		[
 		]
@@ -283,6 +291,10 @@
 	{
 		"height": 0.0
 	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 102.0
+	},
 	"pinned_build_system": "",
 	"project": "Candy-Stats.sublime-project",
 	"replace":
@@ -325,7 +337,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 428.0,
+	"side_bar_width": 339.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

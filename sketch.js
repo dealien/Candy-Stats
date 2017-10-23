@@ -13,7 +13,7 @@ function draw() {
 }
 
 function skittles_gen() {
-    var candy_count = 20;
+    var candy_count = 10;
     var green = color(140, 196, 94)
     var red = color(196, 68, 68)
     var yellow = color(255, 251, 15)
